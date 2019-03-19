@@ -6,7 +6,7 @@ public class test {
         System.out.println("dev/v1");
         System.out.println("dev/v2");
         System.out.println("dev/v3");
-        System.out.println("hotfix/0.1");
+        System.out.println("hotfix/0.1");//1
 
         System.out.println("dev/v1++++++++++++++++孙松松张军");
 
