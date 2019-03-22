@@ -12,13 +12,6 @@ public class test {
 
         System.out.println("tag1");
 
-        System.out.println("dev/v6");
-
-        System.out.println("dev/v7");
-
-        System.out.println("hotfix/0.1.1");//111
-        //11111
-
 
     }
 
