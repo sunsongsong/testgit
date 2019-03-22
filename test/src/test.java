@@ -16,6 +16,8 @@ public class test {
 
         System.out.println("dev/v7");
 
+        System.out.println("hotfix/0.1.1");
+
     }
 
 
